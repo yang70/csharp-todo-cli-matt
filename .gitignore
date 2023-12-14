@@ -1,0 +1,5 @@
+.DS_Store
+TodoApp/bin/*
+TodoApp/obj/*
+TodoAppTest/bin/*
+TodoAppTest/obj/*
