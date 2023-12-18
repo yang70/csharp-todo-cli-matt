@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
+using TodoApp.Classes.Services;
+
 #nullable disable
 
 namespace TodoApp.Migrations
